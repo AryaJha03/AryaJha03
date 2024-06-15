@@ -15,8 +15,8 @@
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AryaJha03&theme=merko&hide_border=true&include_all_commits=true&count_private=flase">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaJha03&theme=merko&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaJha03&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaJha03&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height=195 >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AryaJha03&theme=merko&hide_border=true" >
 </div>
 
 ## 🏆 GitHub Trophies
